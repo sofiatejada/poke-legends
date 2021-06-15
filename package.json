@@ -1,0 +1,23 @@
+{
+  "name": "poke-legends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiatejada/poke-legends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiatejada/poke-legends/issues"
+  },
+  "homepage": "https://github.com/sofiatejada/poke-legends#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
