@@ -56,10 +56,6 @@ app.get('/legends/:id', (req, res) => {
     res.json(pokemon);
 });
 
-
-
-
-
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 });

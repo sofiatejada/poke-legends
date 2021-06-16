@@ -50,10 +50,10 @@
     1) landorus
 
 ### guardian deities
-    1) tapu koko
-    1) tapu lele
-    1) tapu bulu
-    1) tapu fini
+    33) tapu koko
+    34) tapu lele
+    35) tapu bulu
+    36) tapu fini
 
 ### ultra beasts
     1) nihilego
@@ -71,7 +71,7 @@
 ### galarian legendary birds
     1) galarian articuno
     1) galaran zapdos
-    1) galarian moltres
+    50) galarian moltres
 
 
 ## legendary pokemon
@@ -117,25 +117,26 @@
     1) zamazenta (Crowned Shield)
 
 ## mythical pokemon
-    1) mew
-    1) celebi
-    1) jirachi
-    1) deoxys
-    1) phione
-    1) manaphy
-    1) darkrai
-    1) shaymin
-    1) arceus
-    1) victini
-    1) keldeo
-    1) moleotta
-    1) genesect
-    1) diancie
-    1) hoopa
-    1) volcanion
-    1) magearna
-    1) marshadw
-    1) zeraora
-    1) meltan
-    1) melmetal
-    1) zarude
+    77) mew
+    78) celebi
+    79) jirachi
+    80) deoxys
+    81) phione
+    82) manaphy
+    83) darkrai
+    84) shaymin
+    85) arceus
+    86) victini
+    87) keldeo
+    88) moleotta
+    89) genesect
+    90) diancie
+    91) mega diancie
+    91) hoopa
+    92) volcanion
+    93) magearna
+    94) marshadw
+    95) zeraora
+    96) meltan
+    97) melmetal
+    98) zarude
