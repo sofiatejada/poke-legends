@@ -135,7 +135,7 @@
     91) hoopa
     92) volcanion
     93) magearna
-    94) marshadw
+    94) marshadow
     95) zeraora
     96) meltan
     97) melmetal
