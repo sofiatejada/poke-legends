@@ -16,3 +16,5 @@ app.get('/pokelegends', (req, res) => {
   
       res.json(pokemon);
   });
+
+  module.exports = app;
