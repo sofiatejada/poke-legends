@@ -1,6 +1,6 @@
 const express = require('express');
 const legends = require('./data.js');
-const cors = require('cors');
+// const cors = require('cors');
 const app = express();
 
 //our first ENDPOINT / ROUTE
