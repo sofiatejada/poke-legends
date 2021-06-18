@@ -4,7 +4,7 @@
 const express = require('express');
 const legends = require('./data.js');
 const app = express();
-const port = 4852;
+const port = process.env.PORT || 3000;
 
 //our first ENDPOINT / ROUTE
 //node will listen for requests at the home path: '/'
